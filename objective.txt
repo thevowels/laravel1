@@ -1,0 +1,31 @@
+Food delivery Project
+
+    x user can register
+        - email
+        - name
+        - phone
+        - password
+
+    x user can login with
+        - email
+        - password
+
+    - user can see restaurant list
+    - user can choose a restaurent
+    - user can see menu list of selected restaurant
+    - user can choose menu with count
+    - user can order select items
+    
+
+    x admin can login
+    - admin can add restaurant
+        - name
+        - address
+        - image
+
+    - admin can add menu to selected restaurant
+        -name
+        -price
+
+    - admin can see order list
+    - admin can mark order as completed
